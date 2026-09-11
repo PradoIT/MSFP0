@@ -2,7 +2,7 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Información del estudiante
+## Información de la estudiante
 Prado Acosta Briseida\[23210715]; l23210715@tijuana.tecn.mx
 
 Modelado de Sistemas Fisiológicos
